@@ -1,7 +1,6 @@
 ## About Me
 
-Hi, I'm `hypnotic` a full stack-developer who is just unironically a chill guy. I reside from 🇨🇦
-
+Hi, I'm `hypnotic` a full stack-developer, I reside from 🇨🇦. 
 ## My Skills
 
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
