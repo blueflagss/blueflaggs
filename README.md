@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm `hypnotic` a full stack-developer, I reside from 🇨🇦. 
+Hi, I'm `hypnotic` a full stack-developer/programmer, I reside from 🇨🇦. I am willing to learn new things and if you're wanting to join any projects feel free to make PRs.
 ## My Skills
 
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
@@ -11,6 +11,7 @@ Hi, I'm `hypnotic` a full stack-developer, I reside from 🇨🇦.
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
 <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript">
 
 ## GitHub Stats
 
