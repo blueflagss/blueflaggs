@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm `hypnotic` a full stack-developer/programmer, I reside from 🇨🇦. I am willing to learn new things and if you're wanting to join any projects feel free to make PRs.
+Hello, I'm `hypnotic` a full stack-developer/programmer, I reside from 🇨🇦. I am willing to learn new things and if you're wanting to join any projects feel free to make PRs.
 ## My Skills
 
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
